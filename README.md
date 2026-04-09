@@ -9,6 +9,7 @@ By ensuring products are easy to obtain and consistently dependable, the superst
 To gain a clearer understanding of overall business performance, the client has requested a comprehensive report and dashboard. This will address key business questions around sales and profit trends, category contributions, customer segments, shipping efficiency, and regional profitability.
 
 ##KPIs
+
 -What are the monthly Sales and Profit Trends Over Time?
 
 -Which categories and subcategories contribute the most to Sales and Profit?
@@ -26,6 +27,7 @@ differ by Shipping Mode?
 
 
 ##Process
+
 •	Verified data for any missing values and anomalies.
 
 •	Standardized data types across fields (converted relevant columns to text).
