@@ -24,6 +24,7 @@ differ by Shipping Mode?
 
 -How do different Ship Mode impacts Shipping Cost and Profit?
 
+
 ##Process
 •	Verified data for any missing values and anomalies.
 
