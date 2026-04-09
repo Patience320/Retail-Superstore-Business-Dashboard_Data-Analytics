@@ -1,11 +1,13 @@
-#Retail Superstore Data Analysis (Interactive Dashboard creation using PowerBI)
+# Retail Superstore Data Analysis (Interactive Dashboard creation using PowerBI)
 
-##Project Objective: The client operates a retail superstore specializing in three main product categories: Furniture, Office Supplies, and Technology. The business serves a diverse range of regions and customer segments, focusing on both households and corporate clients.                                                  
+## Project Objective: 
+The client operates a retail superstore specializing in three main product categories: Furniture, Office Supplies, and Technology. The business serves a diverse range of regions and customer segments, focusing on both households and corporate clients.                                                  
 
-##Core Mission: The company’s primary objective is to supply everyday goods that are accessible, reliable, and offer strong value for money. 
+## Core Mission: 
+The company’s primary objective is to supply everyday goods that are accessible, reliable, and offer strong value for money. 
 By ensuring products are easy to obtain and consistently dependable, the superstore positions itself as a trusted provider for both home and business needs.      To gain a clearer understanding of overall business performance, the client has requested a comprehensive report and dashboard. This will address key business questions around sales and profit trends, category contributions, customer segments, shipping efficiency, and regional profitability.
 
-##KPIs
+## KPIs
 
 -What are the monthly Sales and Profit Trends Over Time?
 
@@ -23,7 +25,7 @@ differ by Shipping Mode?
 -How do different Ship Mode impacts Shipping Cost and Profit?
 
 
-##Process
+## Process
 
 •	Verified data for any missing values and anomalies.
 
@@ -37,6 +39,6 @@ differ by Shipping Mode?
 
 •	Identified and removed duplicate records.
 
-##Dashboard link 
+## Dashboard link 
 https://app.powerbi.com/links/oyXepApMHZ?ctid=c38e740f-6f89-4fea-ac88-c8323ad47e5c&pbi_source=linkShare
 
