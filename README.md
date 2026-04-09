@@ -1,4 +1,5 @@
 #Retail Superstore Data Analysis (Interactive Dashboard creation using PowerBI)
+
 ##Project Objective
 The client operates a retail superstore specializing in three main product categories: Furniture, Office Supplies, and Technology. The business serves a diverse range of regions and customer segments, focusing on both households and corporate clients.                                                  
 Core Mission                                                                                      The company’s primary objective is to supply everyday goods that are accessible, reliable, and offer strong value for money. By ensuring products are easy to obtain and consistently dependable, the superstore positions itself as a trusted provider for both home and business needs.                                                                                                       
