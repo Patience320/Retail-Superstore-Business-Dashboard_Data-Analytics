@@ -33,8 +33,6 @@ differ by Shipping Mode?
 
 •	Promoted first row to headers for better structure on some fields. 
 
-•	Removed Postal Code field due to high number of null/empty values.
-
 •	Converted Order Date from text to date format.
 
 •	Identified and removed duplicate records.
