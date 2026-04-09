@@ -5,8 +5,7 @@ The client operates a retail superstore specializing in three main product categ
 
 Core Mission
 The company’s primary objective is to supply everyday goods that are accessible, reliable, and offer strong value for money. 
-By ensuring products are easy to obtain and consistently dependable, the superstore positions itself as a trusted provider for both home and business needs.                                                                                                       
-To gain a clearer understanding of overall business performance, the client has requested a comprehensive report and dashboard. This will address key business questions around sales and profit trends, category contributions, customer segments, shipping efficiency, and regional profitability.
+By ensuring products are easy to obtain and consistently dependable, the superstore positions itself as a trusted provider for both home and business needs.      To gain a clearer understanding of overall business performance, the client has requested a comprehensive report and dashboard. This will address key business questions around sales and profit trends, category contributions, customer segments, shipping efficiency, and regional profitability.
 
 ##KPIs
 
